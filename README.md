@@ -26,8 +26,11 @@ I focus on understanding concepts deeply by building them step by step.
 ⚙️ Tools & Technologies
 
 🐍 Python
+
 📊 NumPy & Pandas
+
 🤖 Scikit-learn
+
 ☁️ Google Colab
 
 ---
